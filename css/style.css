@@ -54,17 +54,8 @@ Header
 	min-height: inherit;
 	margin-bottom: 0px;
 }
-.navbar-brand {
-	height: inherit;
-	font-family: 'Josefin Slab', serif;
-	font-weight: 700;
-	text-transform: uppercase;
-	padding: 5px;
-    font-size: 42px;
-    margin-top: 5px;
-}
 
-.navbar-default .navbar-brand {
+.navbar-default {
     color: #e43c5c;
 }
 
@@ -662,6 +653,12 @@ p.cta-sub-title {
 {
     border: 0px;
 }
+}
+
+#logo {
+    width: 200px;
+    padding: 5px;
+    margin-top: 5px;
 }
 /**************************************
 form element
