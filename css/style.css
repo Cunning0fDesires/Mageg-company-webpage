@@ -174,7 +174,8 @@ a.btn-banner:hover, a.btn-banner:focus
 }
 p.cta-sub-title
 {
-	font-size: 28px;
+    font-size: 16px;
+    text-align: center;
 }
 .pg-titl-bdr-btm
 {
