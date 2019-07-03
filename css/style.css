@@ -1,9 +1,3 @@
-/*
-    Theme Name: Tempo
-    Theme URL: https://bootstrapmade.com/tempo-free-onepage-bootstrap-theme/
-    Author: BootstrapMade.com
-    Author URL: https://bootstrapmade.com
-*/
 
 /**************************************
 link & button
@@ -47,7 +41,7 @@ Header
 
 .navbar-default .navbar-nav > .active > a,.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus
 {
-	border-bottom: 2px solid #E74C3C;
+	border-bottom: 2px solid #1f2d77;
     outline: none;
 }
 .navbar {
@@ -56,7 +50,7 @@ Header
 }
 
 .navbar-default {
-    color: #e43c5c;
+    color: #1f2d77;
 }
 
 .navbar-default .navbar-nav > li > a {
@@ -114,9 +108,9 @@ a.btn-banner i
 }
 a.btn-banner:hover, a.btn-banner:focus
 {
-    background-color: #e43c5c;
+    background-color: #1f2d77;
     color: #fff;
-    border-color: #E74C3C;
+    border-color: #1f2d77;
     display: inline-block;
 }
 .bold
@@ -161,7 +155,7 @@ a.btn-banner:hover, a.btn-banner:focus
 }
 .bgred
 {
-    background-color: #E74C3C;
+    background-color: #1f2d77;
 }
 .wrk-title
 {
@@ -169,7 +163,7 @@ a.btn-banner:hover, a.btn-banner:focus
 }
 .cta-1, .cta2
 {
-	background-color: #e43c5c;
+	background-color: #1f2d77;
 	padding: 40px 0px;
 }
 p.cta-sub-title
@@ -181,7 +175,7 @@ p.cta-sub-title
 {
 	width: 100px;
 	height: 3px;
-	background-color: #e43c5c;
+	background-color: #1f2d77;
 }
 .service-box {
     margin: 0 0 60px;
@@ -195,7 +189,7 @@ p.cta-sub-title
     border: 1px solid #e9e9e9;
     line-height: 75px;
     text-align: center;
-    color: #e43c5c;
+    color: #1f2d77;
     font-size: 30px;
     margin-right: 23px;
     float: left;
@@ -230,7 +224,7 @@ p.cta-sub-title
 
 .fil-btn .active
 {
-	background-color: #e43c5c;
+	background-color: #1f2d77;
 }
 .img-sec, .fig-caption
 {
@@ -281,7 +275,7 @@ p.cta-sub-title
 }
 .red
 {
-	background-color: #E74C3C;
+	background-color: #1f2d77;
 }
 .marb-20
 {
@@ -334,7 +328,7 @@ margin-top: 5px;
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  background: #E43C5C;
+  background: #1f2d77;
   color: #fff;
 }
 
@@ -362,7 +356,7 @@ margin-top: 5px;
 
 #portfolio .portfolio-item .details {
   height: 50px;
-  background: #E43C5C;
+  background: #1f2d77;
   position: absolute;
   width: 100%;
   height: 50px;
@@ -415,7 +409,7 @@ margin-top: 5px;
 }
 
 .validation {
-    color: red;
+    color:#1f2d77;
     display:none;
     margin: 0 0 20px;
     font-weight:400;
@@ -512,7 +506,7 @@ margin-top: 5px;
     margin-bottom: 0;
 }
 .footer_copyright a {
-    color: #e43c5c;
+    color: #1f2d77;
 }
 #banner
 {
