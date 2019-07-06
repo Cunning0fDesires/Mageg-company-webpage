@@ -510,7 +510,7 @@ margin-top: 5px;
 }
 #banner
 {
-    background: url('../img/banner-bg.jpg') no-repeat;
+    background: url('../img/background/banner-bg.jpg') no-repeat;
     background-size: cover;
     min-height: 500px;
 }
