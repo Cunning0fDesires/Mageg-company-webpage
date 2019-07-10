@@ -40,7 +40,7 @@ Responsive navbar-brand image CSS
   {
       color:#fff !important;
   }
-  h1.cta-title
+  h1.homepage-title
   {
       font-size: 43px;
   }
@@ -161,12 +161,12 @@ Responsive navbar-brand image CSS
   {
       cursor: pointer;
   }
-  .cta-1, .cta2
+  .homepage
   {
       background-color: #1f2d77;
       padding: 40px 0px;
   }
-  p.cta-sub-title
+  p.homepage-sub-title
   {
       font-size: 16px;
       text-align: center;
@@ -296,7 +296,7 @@ Responsive navbar-brand image CSS
   }
   
   /* Portfolio */
-  #portfolio {
+  #crm {
     background: #fff;
     padding: 80px 0;
   }
@@ -573,7 +573,7 @@ Responsive navbar-brand image CSS
   {
       width: 100%;
   }
-  .service-box .service-text h3
+  .sevice-box .service-text h3
   {
       padding-top: 15px;
   }
