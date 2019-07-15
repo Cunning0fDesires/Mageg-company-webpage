@@ -57,10 +57,6 @@ Responsive navbar-brand image CSS
   {
       padding: 40px 0px;
   }
-  .main-navigation
-  {
-      border-bottom: 1px solid #eee;
-  }
   .navbar-default {
       background-color: #fff;
       border-color: rgba(231, 231, 231, 0.33);
