@@ -303,16 +303,14 @@ Responsive navbar-brand image CSS
     padding-right: 15px;
   }
   
-  #portfolio #portfolio-flters,#crmmarketing #crmmarketing-flters {
+  #portfolio #portfolio-flters {
     padding: 0;
     margin: 0 0 45px 0;
     list-style: none;
     text-align: center;
   }
-  #portfolio #portfolio-flters li{
-      text-transform: uppercase;
-  }
-  #portfolio #portfolio-flters li,#crmmarketing #crmmarketing-flters li {
+  
+  #portfolio #portfolio-flters li {
     cursor: pointer;
     margin: 0 10px;
     display: inline-block;
@@ -321,17 +319,18 @@ Responsive navbar-brand image CSS
     line-height: 20px;
     color: #666666;
     border-radius: 4px;
+    text-transform: uppercase;
     background: #f7f7f7;
     margin-bottom: 5px;
     transition: all 0.3s ease-in-out;
   }
   
-  #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active,#crmmarketing #crmmarketing-flters li:hover, #crmmarketing #crmmarketing-flters li.filter-active {
+  #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
     background: #1f2d77;
     color: #fff;
   }
   
-  #crmmarketing .crmmarketing-item,#portfolio .portfolio-item {
+  #portfolio .portfolio-item {
     position: relative;
     overflow: hidden !important;
     margin-bottom: 15px;
@@ -341,12 +340,12 @@ Responsive navbar-brand image CSS
     transform: scale(1);
   }
   
-  #crmmarketing .crmmarketing-item a,#portfolio .portfolio-item a {
+  #portfolio .portfolio-item a {
     display: block;
     margin-right: 15px;
   }
   
-  #crmmarketing .crmmarketing-item img,#portfolio .portfolio-item img {
+  #portfolio .portfolio-item img {
       width:100%;
     position: relative;
     top: 0;
