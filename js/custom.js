@@ -34,7 +34,21 @@
       $("#portfolio-wrapper").fadeTo(300, 1);
     }, 300);
   });
+// CRM Marketing filers
+  $("#crmmarketing-flters li").click(function() {
+    $("#crmmarketing-flters li").removeClass('filter-active');
+    $(this).addClass('filter-active');
 
+    var selectedFilter = $(this).data("filter");
+    $("#crmmarketing-wrapper").fadeTo(100, 0);
+
+    $(".crmmarketing-item").fadeOut().css('transform', 'scale(0)');
+
+    setTimeout(function() {
+      $(selectedFilter).fadeIn(100).css('transform', 'scale(1)');
+      $("#crmmarketing-wrapper").fadeTo(300, 1);
+    }, 300);
+  });
   // Team Slider
   $('.autoplay').slick({
     dots: true,
