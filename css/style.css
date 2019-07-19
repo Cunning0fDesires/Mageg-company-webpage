@@ -109,7 +109,6 @@ Responsive navbar-brand image CSS
   a.btn-banner:hover, a.btn-banner:focus
   {
       background-color: #1f2d77;
-      color: #fff;
       border-color: #1f2d77;
       display: inline-block;
   }
