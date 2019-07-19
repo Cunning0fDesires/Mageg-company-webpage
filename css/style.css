@@ -508,7 +508,7 @@ Responsive navbar-brand image CSS
   }
   #banner
   {
-      background: url('https://i.ibb.co/1XgQbtw/banner-bg.jpg') no-repeat;
+      background: url('../img/banner-bg.jfif') no-repeat;
       background-size: cover;
       min-height: 500px;
   }
