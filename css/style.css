@@ -175,6 +175,7 @@ Responsive navbar-brand image CSS
       background-color: #1f2d77;
   }
   .service-box {
+      width:100%;
       margin: 0 0 60px;
       display: inline-block;
   }
@@ -331,7 +332,6 @@ Responsive navbar-brand image CSS
   
   #portfolio .portfolio-item {
     position: relative;
-    height: 200px;
     overflow: hidden !important;
     margin-bottom: 15px;
     transition: all 350ms ease;
@@ -346,6 +346,7 @@ Responsive navbar-brand image CSS
   }
   
   #portfolio .portfolio-item img {
+      width:100%;
     position: relative;
     top: 0;
     transition: all 600ms cubic-bezier(0.645, 0.045, 0.355, 1);
