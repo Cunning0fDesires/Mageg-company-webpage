@@ -13,7 +13,9 @@ Responsive navbar-brand image CSS
     width: auto;
   }
   
-  
+  .cta-1 {
+    background-color: #1f2d77;
+}
   
   /* EXAMPLE 3
   
@@ -33,7 +35,7 @@ Responsive navbar-brand image CSS
     margin: 25px 15px 25px 0;
   }
   
-  /**************************************
+   /**************************************
   link & button
   **************************************/
   .white
@@ -55,14 +57,10 @@ Responsive navbar-brand image CSS
   {
       padding: 40px 0px;
   }
-  .main-navigation
-  {
-      border-bottom: 1px solid #eee;
-  }
+
   .navbar-default {
       background-color: #fff;
       border-color: rgba(231, 231, 231, 0.33);
-      padding: 20px 0px;
   }
   
   .jumbotron
